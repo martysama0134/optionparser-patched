@@ -218,6 +218,9 @@
 #ifndef OPTIONPARSER_H_
 #define OPTIONPARSER_H_
 
+#include <stdio.h>
+#include <stdlib.h>
+
 #ifdef _MSC_VER
 #include <intrin.h>
 #pragma intrinsic(_BitScanReverse)
